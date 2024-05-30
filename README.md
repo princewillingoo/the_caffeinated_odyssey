@@ -1,5 +1,9 @@
 # The Caffeinated Odyssey
 
+
+https://github.com/princewillingoo/the_caffeinated_odyssey/assets/97766398/49d7c670-637f-41f0-912e-1078233b3c27
+
+
 1. Start Docker Compose
 
    ```bash
